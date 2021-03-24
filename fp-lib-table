@@ -1,0 +1,9 @@
+(fp_lib_table
+  (lib (name Mounting_Keyboard_Stabilizer)(type KiCad)(uri C:/Users/drako/Documents/KiCAD/Libraries/Keyboard/Mounting_Keyboard_Stabilizer.pretty)(options "")(descr ""))
+  (lib (name Switch_Keyboard_Alps_Matias)(type KiCad)(uri C:/Users/drako/Documents/KiCAD/Libraries/Keyboard/Switch_Keyboard_Alps_Matias.pretty)(options "")(descr ""))
+  (lib (name Switch_Keyboard_Cherry_MX)(type KiCad)(uri C:/Users/drako/Documents/KiCAD/Libraries/Keyboard/Switch_Keyboard_Cherry_MX.pretty)(options "")(descr ""))
+  (lib (name Switch_Keyboard_Hybrid)(type KiCad)(uri C:/Users/drako/Documents/KiCAD/Libraries/Keyboard/Switch_Keyboard_Hybrid.pretty)(options "")(descr ""))
+  (lib (name Switch_Keyboard_Kailh)(type KiCad)(uri C:/Users/drako/Documents/KiCAD/Libraries/Keyboard/Switch_Keyboard_Kailh.pretty)(options "")(descr ""))
+  (lib (name packages3d)(type KiCad)(uri C:/Users/drako/Documents/KiCAD/Libraries/Keyboard/packages3d)(options "")(descr ""))
+  (lib (name MX_Only)(type KiCad)(uri C:/Users/drako/Documents/KiCAD/Libraries/MX_Only.pretty)(options "")(descr ""))
+)
